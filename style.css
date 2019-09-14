@@ -46,6 +46,7 @@ body {
 }
 .main-caption h1 {
   font-weight: bold;
+  color: #f4f4f4;
 
 }
 .moving-arrow {
@@ -133,25 +134,18 @@ body {
   background-color: #f4f4f4;
 }
 
-/*=========================== contact ============================*/
+/*=========================== about me ============================*/
 
-.about {
-  background-image: url('images/backgroundv3.jpg');
-  background-size: cover;
-  background-attachment: fixed;
-  overflow: auto;
-  height: 80%;
-}
+
 .about h1 {
   font-weight: bold;
 }
 .about-content {
   text-align: center;
-  width: 75%;
+  width: 100%;
   margin: 0 auto;
   padding: 1.5rem;
   border-radius: 1rem;
-  background-color: rgb(204, 204, 204);
   margin-top: 2rem;
   opacity: 0.8
 }
